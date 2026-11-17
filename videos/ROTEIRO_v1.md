@@ -19,10 +19,16 @@ Um "dia na pousada" condensado: a linha do tempo é a refeição (café → almo
 | 58–64 s | 🌙 Jantar / noite | Jantar, salão de jogos, recreação | "Jantar incluso" | "À noite, jantar e salão de jogos." |
 | 64–72 s | FECHAMENTO | Plano afetivo (filhos), vista final | "Hotel Fazenda Horizonte Belo — Brumadinho/MG" + @perfil | "Pra quem quer descansar e ver os filhos felizes, eu recomendo." |
 
-## A confirmar com você
-1. Preços/valores: mostrar ou não?
-2. Tem parceria/cupom/link de reserva para o final?
-3. Pontos negativos para um review honesto? (credibilidade)
-4. Pode mostrar o rosto dos seus filhos? (presumo que sim)
-5. Narração gravada por você, ou só texto na tela + música?
-6. Link/arquivo da referência (ver abaixo).
+## Decisões do Rafa
+- Valores: só na legenda (não aparecem no vídeo).
+- Sem cupom/parceria: o fechamento é só @perfil + nome da pousada.
+- Rosto dos filhos: liberado.
+- Narração: gravada pelo próprio Rafa (voz real).
+- Ritmo: o da referência agrada (manter cortes dinâmicos).
+- Honestidade: a pousada é modesta/pequena e a cozinha é pequena, mas de muita qualidade.
+
+## Ajuste de tom (review honesto)
+Em vez de "resort", posicionar como "simples, acolhedora e com comida de qualidade".
+- Chegada (sugestão): "Já aviso: é uma pousada pequena e simples."
+- Almoço (sugestão): "A cozinha é pequena, mas a comida é de muita qualidade."
+- Fechamento (sugestão): "Não é luxo. É um fim de semana tranquilo com pensão completa."
