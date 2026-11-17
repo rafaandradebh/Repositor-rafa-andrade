@@ -42,3 +42,29 @@ IMG_1237, 1241, 1254, 1255, 1324, 1327, 1328, 1329, 1345, 1352. Ainda não anali
 - Obra e entulho aparecem em 1343, 1348, 1349 e 1350. Dá para cortar, enquadrar ou assumir na narração, como "estão em obras".
 - A banheira em 1350 parece manchada, e 1353 está melhor.
 - A comida é o ponto forte: a imagem é bonita e combina com "culinária pequena, mas de qualidade".
+
+---
+## Atualização 2 — clipes novos (20 arquivos a mais, total 70 na pasta)
+
+| Clipe | Dur. | O que mostra | Bloco | Nota |
+|---|---|---|---|---|
+| 1266 | 14 s | Ordenha de perto, balde de leite, criança ordenhando | Lazer manhã | Muito bom |
+| 1267 | 23 s | Ordenha, adulto de camisa bege ordenhando | Lazer manhã | Usar 4 a 5 s |
+| 1268 | 14 s | Ordenha de outro ângulo, sorriso de um adulto | Lazer manhã | Bom |
+| 1269 | 6 s | Filho a cavalo (camisa azul), vista do pasto | Cavalgada | Muito bom |
+| 1270 | 10 s | Cavalgada, estrada de terra e vista da pousada | Cavalgada | Bom |
+| 1271 | 2 s | Grupo seguindo um cavalo na trilha, visto de trás | Cavalgada | Plano aberto |
+| 1280 | 1 s | Cascata e piscina natural, 16:9 e sem áudio | Piscina | Muito curto, único horizontal |
+| 1282 | 28 s | Rafa de óculos no deck com cerveja, piscina ao fundo | Lazer tarde | Bom para o clima de descanso |
+| 1304 | 17 s | Bar da piscina, crianças nadando | Piscina | Bom |
+| 1311 | 13 s | Piscina e bar, crianças brincando | Piscina | Bom |
+| 1314 | 6 s | Saladas: alface, tomate, pepino, beterraba | Almoço | Cores boas |
+| copy_7DD8 | 21 s | Ordenha, cascata e cesta de frutas (1080x1920) | Montagem | Já vem pré-editado e em menor resolução |
+| copy_8834 | 10 s | Cascata com texto sobreposto sobre outro assunto | Piscina | **Não usar:** o texto está gravado no vídeo |
+
+Os arquivos 1334 a 1344 vieram duplicados.
+
+### Ainda não chegou
+- **Quarto standard.**
+- **Jantar.**
+- **Fotos dos quartos prontos** (para cobrir o trecho da obra).
