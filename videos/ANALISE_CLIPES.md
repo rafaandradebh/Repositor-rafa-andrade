@@ -68,3 +68,10 @@ Os arquivos 1334 a 1344 vieram duplicados.
 - **Quarto standard.**
 - **Jantar.**
 - **Fotos dos quartos prontos** (para cobrir o trecho da obra).
+
+---
+## Atualização 3
+- **IMG_1236 (24 s):** quarto standard, cama de solteiro, banheiro, sacada com vista para o pasto e cama de casal.
+- **IMG_1334 a 1336:** novas versões de clipes do buffet que já tínhamos.
+- **IMG_3174 a 3177 (JPG):** 4 fotos profissionais da suíte nova, com cama de casal, janelas grandes, vista e bancada. Servem para cobrir a obra.
+- **Ainda sem clipe de jantar.**
