@@ -75,3 +75,5 @@ Os arquivos 1334 a 1344 vieram duplicados.
 - **IMG_1334 a 1336:** novas versões de clipes do buffet que já tínhamos.
 - **IMG_3174 a 3177 (JPG):** 4 fotos profissionais da suíte nova, com cama de casal, janelas grandes, vista e bancada. Servem para cobrir a obra.
 - **Ainda sem clipe de jantar.**
+
+**Correção:** os clipes 1334, 1335 e 1336 (buffet com estrogonofe, feijão, saladas e prato quente) são o **jantar**, e não o almoço. Os clipes 1269 e 1270 (cavalgada) são **incluídos na estadia**.
